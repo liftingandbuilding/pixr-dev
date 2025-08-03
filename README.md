@@ -1,4 +1,4 @@
-# 🎮 Pixr.dev
+# 🎮 Pixr.dev [in progress]
 
 > Lightweight, mobile-optimized web app for creating scroll-stopping thumbnails
 
