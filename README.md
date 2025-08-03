@@ -28,3 +28,7 @@ npm install
 
 # Start development server
 npm start
+
+## 🔗 Live Demo
+
+Try it here → [pixr.dev on Replit](https://replit.com/@yourusername/pixr-dev)
